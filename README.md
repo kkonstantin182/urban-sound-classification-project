@@ -11,7 +11,7 @@ This is the project for the course "Statistical Methods for Machine Learning" at
 
 ## Task:
 
-"Use TensorFlow 2 to train neural networks for the classification of sound events based on audio files from the UrbanSound8K dataset: it contains 8732 sound excerpts (<=4 seconds) of urban sounds labeled with 10 classes: air_conditioner, car_horn, children_playing, dog_bark, drilling, enginge_idling, gun_shot, jackhammer, siren, and street_music. Further information about the dataset is available in:
+Use TensorFlow 2 to train neural networks for the classification of sound events based on audio files from the UrbanSound8K dataset: it contains 8732 sound excerpts (<=4 seconds) of urban sounds labeled with 10 classes: air_conditioner, car_horn, children_playing, dog_bark, drilling, enginge_idling, gun_shot, jackhammer, siren, and street_music. Further information about the dataset is available in:
 
 
 J. Salamon, C. Jacoby and J. P. Bello, "A Dataset and Taxonomy for Urban Sound Research", 22nd ACM International Conference on Multimedia, Orlando USA, Nov. 2014. (available here)
@@ -41,4 +41,4 @@ The dataset is provided with 10 predefined folds. Train the model on folds: 1, 2
 
  
 
-If you are not familiar with neural networks for image classification, take one of the many tutorials available in TensorFlow."
+If you are not familiar with neural networks for image classification, take one of the many tutorials available in TensorFlow.
