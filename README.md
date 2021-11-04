@@ -2,14 +2,14 @@
 
 This is the project for the course "Statistical Methods for Machine Learning" at the University of Milan.
 
-Information:
+## Information:
 
 - directory "features" contains csv-files with extracted spectrograms;
 - directory "models" contains JSON-files with the loss and accuracy both for the training and validation sets for each epoch;
 - directory "notebooks" contains notebooks with models and results;
 - directory "scripts" contains py-files with necessary functions;
 
-Task:
+## Task:
 
 "Use TensorFlow 2 to train neural networks for the classification of sound events based on audio files from the UrbanSound8K dataset: it contains 8732 sound excerpts (<=4 seconds) of urban sounds labeled with 10 classes: air_conditioner, car_horn, children_playing, dog_bark, drilling, enginge_idling, gun_shot, jackhammer, siren, and street_music. Further information about the dataset is available in:
 
