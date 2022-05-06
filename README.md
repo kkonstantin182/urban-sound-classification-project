@@ -13,11 +13,13 @@ The project describes the application of convolutional neural networks on the ex
 The work portrays the process of extracting features from sound waves, tuning hyperparameters, and also provides classification results for two convolutional neural network architectures.
 
 ## Technologies
-* tensorflow: 
+* tensorflow: 2.8.0
+* keras: 2.8.0
 * scikit-learn: 1.0.2
-* pandas: 1.4.0
-* numpy: 1.21.2
-* matplotlib: 3.5.1
+* pandas: 1.3.5
+* numpy: 1.21.6
+* matplotlib: 3.2.2
+* librosa: 0.8.1
 
 ## Content Description:
 
