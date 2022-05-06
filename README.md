@@ -25,7 +25,7 @@ The work portrays the process of extracting features from sound waves, tuning hy
 * the directory "models" contains JSON-files with the loss and accuracy both for the training and validation sets for each epoch;
 * the directory "notebooks" contains notebooks with models and results;
 * the directory "scripts" contains py-files with necessary functions;
-* the file "report.pdf" contains the final ([report](https://github.com/kkonstantin182/urban-sound-classification-project/blob/main/report.pdf)).
+* the file "report.pdf" contains the final [report](https://github.com/kkonstantin182/urban-sound-classification-project/blob/main/report.pdf).
 
 ## License
 GNU General Public License v2.0 [just for fun :)]
