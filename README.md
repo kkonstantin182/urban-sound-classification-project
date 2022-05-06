@@ -8,7 +8,7 @@
 
 ## General info
 This is the project for the course "Statistical Methods for Machine Learning" at the University of Milan.
-The task can be found ([here](https://github.com/kkonstantin182/urban-sound-classification-project/blob/main/task.pdf)).
+The task can be found [here](https://github.com/kkonstantin182/urban-sound-classification-project/blob/main/task.pdf).
 The project describes the application of convolutional neural networks on the example of a multiclass classification problem. 
 The work portrays the process of extracting features from sound waves, tuning hyperparameters, and also provides classification results for two convolutional neural network architectures.
 
